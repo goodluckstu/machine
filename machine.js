@@ -1,3 +1,3 @@
 (function(){
-   aesjs.AES.aes_disabled = true;
+   aesjs.AES.aes_disabled = false;
 })();
